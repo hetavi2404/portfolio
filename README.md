@@ -4,7 +4,7 @@ Welcome to the source code of my personal portfolio website!
 This project was built from scratch using only HTML and CSS (no frameworks), just vibes and a bit of chaos.
 
 ## Live Site
-https://yourusername.github.io/portfolio
+https://hetavi2404.github.io/portfolio/
 
 ## About the Project
 
