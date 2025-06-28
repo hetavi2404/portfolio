@@ -1,4 +1,4 @@
-# Hetavi Makwana — Personal Portfolio
+# Hetavi Makwana — Portfolio
 
 Welcome to the source code of my personal portfolio website!  
 This project was built from scratch using only HTML and CSS (no frameworks), just vibes and a bit of chaos.
